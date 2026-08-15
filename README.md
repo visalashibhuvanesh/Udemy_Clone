@@ -30,7 +30,7 @@ While developing this project, I practiced concepts such as:
 *Course card layouts
 *Positioning and alignment
 
-🔗 Live Preview: Visit Website - https://visalashibhuvanesh.github.io/Udemy_Clone/
+🔗 Live Preview: Visit Website -  https://visalashibhuvanesh.github.io/Udemy_Clone/ 
 
 🚀 Learning Outcome
 This project helped me gain practical experience in creating a website from the ground up and improved my confidence in working with HTML and CSS.
